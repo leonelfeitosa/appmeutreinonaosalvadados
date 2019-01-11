@@ -1,0 +1,1 @@
+export * from './ionic4-mask.directive';
